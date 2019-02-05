@@ -1,6 +1,5 @@
 from PIL import ImageGrab, ImageOps
 import pyautogui
-import time
 from numpy import *
 print ("working...")
 
